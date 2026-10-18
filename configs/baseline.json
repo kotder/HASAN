@@ -1,0 +1,9 @@
+{
+  "lr": 0.001,
+  "batch_size": 32,
+  "epochs": 20,
+  "optimizer": "adam",
+  "scheduler": "none",
+  "kernel_mode": "mixed",
+  "activation": "relu"
+}

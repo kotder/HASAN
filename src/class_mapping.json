@@ -1,0 +1,86 @@
+{
+  "2": {
+    "target": 1,
+    "name": "Speed limit 30 km/h"
+  },
+  "4": {
+    "target": 2,
+    "name": "Speed limit 50 km/h"
+  },
+  "5": {
+    "target": 3,
+    "name": "Speed limit 60 km/h"
+  },
+  "6": {
+    "target": 4,
+    "name": "Speed limit 70 km/h"
+  },
+  "7": {
+    "target": 5,
+    "name": "Speed limit 80 km/h"
+  },
+  "56": {
+    "target": 13,
+    "name": "Yield"
+  },
+  "52": {
+    "target": 14,
+    "name": "Stop"
+  },
+  "55": {
+    "target": 17,
+    "name": "No entry"
+  },
+  "34": {
+    "target": 18,
+    "name": "General caution"
+  },
+  "48": {
+    "target": 25,
+    "name": "Road work"
+  },
+  "33": {
+    "target": 26,
+    "name": "Traffic signals ahead"
+  },
+  "35": {
+    "target": 27,
+    "name": "Pedestrians"
+  },
+  "37": {
+    "target": 28,
+    "name": "Children crossing"
+  },
+  "36": {
+    "target": 29,
+    "name": "Bicycles crossing"
+  },
+  "24": {
+    "target": 33,
+    "name": "Turn right ahead"
+  },
+  "22": {
+    "target": 34,
+    "name": "Turn left ahead"
+  },
+  "21": {
+    "target": 35,
+    "name": "Ahead only"
+  },
+  "20": {
+    "target": 36,
+    "name": "Go straight or right"
+  },
+  "26": {
+    "target": 38,
+    "name": "Keep right"
+  },
+  "25": {
+    "target": 39,
+    "name": "Keep left"
+  },
+  "27": {
+    "target": 40,
+    "name": "Roundabout mandatory"
+  }
+}
